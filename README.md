@@ -1,7 +1,7 @@
 # G-ThinkerQ Demo  
 **Task-Based Online Subgraph Querying in Action**
 
-[![Open in Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/g-thinkerq-demo/blob/main/G-ThinkerQ_Demo.ipynb](https://colab.research.google.com/drive/1aWRFbKbK6lFBXD627YyykC43-ewW2MDf?usp=sharing))
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aWRFbKbK6lFBXD627YyykC43-ewW2MDf?usp=sharing)
 
 ---
 
